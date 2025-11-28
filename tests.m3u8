@@ -277,7 +277,7 @@ https://ca01.utako.moe/kayopops/index.m3u8
 https://ca01.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 
-https://nl00.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
+https://nl.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
 
@@ -432,6 +432,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
